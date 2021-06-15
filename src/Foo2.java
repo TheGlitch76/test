@@ -1,2 +1,2 @@
-public class Foo2 {
+public final class Foo2 {
 }
